@@ -12,7 +12,7 @@ O principal objetivo deste repositório é proporcionar a estudantes e desenvolv
 
 ## Referências
 
-**[Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/?couponCode=ST22FS22724)**
+**Estrutura de Dados e Algoritmos em Python: O Guia Completo**
 - **Instrutor:** IA Expert Academy
 - **Resumo do Conteúdo:**
     - Notação Big-O para análise e comparação de algoritmos.
