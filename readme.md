@@ -12,7 +12,7 @@ O principal objetivo deste repositório é proporcionar a estudantes e desenvolv
 
 ## Referências
 
-- **Curso:** [Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/?couponCode=ST22FS22724)
+**[Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/?couponCode=ST22FS22724)**
 - **Instrutor:** IA Expert Academy
 - **Resumo do Conteúdo:**
     - Notação Big-O para análise e comparação de algoritmos.
@@ -29,6 +29,5 @@ O principal objetivo deste repositório é proporcionar a estudantes e desenvolv
     - Busca de menores rotas em grafos com busca gulosa, busca A Estrela (A*), e Dijkstra.
     - Implementação de todos os algoritmos do zero, sem o uso de bibliotecas.
 
-## Livro Recomendado
-- **Livro:** Estrutura de Dados Técnicas de Programação
+**Estrutura de Dados Técnicas de Programação**
 - **Autor:** Francisco Bianchi
