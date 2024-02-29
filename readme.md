@@ -12,18 +12,23 @@ O principal objetivo deste repositório é proporcionar a estudantes e desenvolv
 
 ## Referências
 
-Este repositório baseia-se no curso "Estrutura de Dados e Algoritmos em Python: O Guia Completo" da IA Expert Academy. Este curso, disponível na plataforma Udemy ([link do curso](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/?couponCode=ST22FS22724)), abrange uma ampla gama de tópicos. Alguns dos principais pontos do curso incluem:
+- **Curso:** [Estrutura de Dados e Algoritmos em Python: O Guia Completo](https://www.udemy.com/course/estrutura-de-dados-e-algoritmos-python-guia-completo/?couponCode=ST22FS22724)
+- **Instrutor:** IA Expert Academy
+- **Resumo do Conteúdo:**
+    - Notação Big-O para análise e comparação de algoritmos.
+    - Criação de vetores não ordenados e ordenados.
+    - Construção de pilhas, filas e deques.
+    - Implementação de listas encadeadas simples e duplamente encadeadas.
+    - Conceitos e implementação de recursão.
+    - Algoritmos de ordenação: bubble sort, selection sort, insertion sort, shell sort, merge sort e quick sort.
+    - Análise comparativa de desempenho entre algoritmos de ordenação e vetores ordenados.
+    - Árvores binárias de busca: inserção, pesquisa e exclusão.
+    - Funções recursivas para travessia de árvores: pré-ordem, in-ordem e pós-ordem.
+    - Construção de grafos com orientação a objetos e matrizes de adjacência.
+    - Algoritmos de percorrimento de grafos: busca em profundidade e busca em largura.
+    - Busca de menores rotas em grafos com busca gulosa, busca A Estrela (A*), e Dijkstra.
+    - Implementação de todos os algoritmos do zero, sem o uso de bibliotecas.
 
-- Entendimento da notação Big-O para análise e comparação entre algoritmos.
-- Criação de vetores não ordenados e ordenados.
-- Construção de pilhas, filas e deques.
-- Implementação de listas encadeadas simples e duplamente encadeadas.
-- Conceitos e implementação de recursão.
-- Passo a passo dos principais algoritmos de ordenação.
-- Análise de desempenho entre algoritmos de ordenação e vetores ordenados.
-- Implementação de árvores binárias de busca e suas operações.
-- Funções recursivas para travessia de árvores.
-- Construção de grafos utilizando orientação a objetos e matrizes de adjacência.
-- Algoritmos para percorrimento de grafos, como busca em profundidade e busca em largura.
-- Busca de menores rotas em grafos utilizando algoritmos de Inteligência Artificial.
-- Implementação do algoritmo de Dijkstra para encontrar menores rotas.
+## Livro Recomendado
+- **Livro:** Estrutura de Dados Técnicas de Programação
+- **Autor:** Francisco Bianchi
