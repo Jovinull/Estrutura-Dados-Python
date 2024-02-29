@@ -14,20 +14,6 @@ O principal objetivo deste repositório é proporcionar a estudantes e desenvolv
 
 **Estrutura de Dados e Algoritmos em Python: O Guia Completo**
 - **Instrutor:** IA Expert Academy
-- **Resumo do Conteúdo:**
-    - Notação Big-O para análise e comparação de algoritmos.
-    - Criação de vetores não ordenados e ordenados.
-    - Construção de pilhas, filas e deques.
-    - Implementação de listas encadeadas simples e duplamente encadeadas.
-    - Conceitos e implementação de recursão.
-    - Algoritmos de ordenação: bubble sort, selection sort, insertion sort, shell sort, merge sort e quick sort.
-    - Análise comparativa de desempenho entre algoritmos de ordenação e vetores ordenados.
-    - Árvores binárias de busca: inserção, pesquisa e exclusão.
-    - Funções recursivas para travessia de árvores: pré-ordem, in-ordem e pós-ordem.
-    - Construção de grafos com orientação a objetos e matrizes de adjacência.
-    - Algoritmos de percorrimento de grafos: busca em profundidade e busca em largura.
-    - Busca de menores rotas em grafos com busca gulosa, busca A Estrela (A*), e Dijkstra.
-    - Implementação de todos os algoritmos do zero, sem o uso de bibliotecas.
 
 **Estrutura de Dados Técnicas de Programação**
 - **Autor:** Francisco Bianchi
